@@ -1,4 +1,4 @@
-FROM gx6020/magic:v2.8.2
+FROM gx6020/magic:v2.8.3
 
 ENTRYPOINT "/run.sh"
 
